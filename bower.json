@@ -1,0 +1,20 @@
+{
+  "name": "Ang-todo-with-test-16",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "paulwallis42 <paulwallis42@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/PaulWallis42/Ang-todo-with-test-16",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6"
+  }
+}
